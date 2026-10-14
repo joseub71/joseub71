@@ -144,10 +144,9 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<!-- Temporary cards (public repos only); to be replaced by jstrieb/github-stats output that includes private contributions. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joseub71&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=06b2a0&icon_color=06b2a0&text_color=8b949e" alt="Overview" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseub71&layout=compact&hide_border=true&bg_color=00000000&title_color=06b2a0&text_color=8b949e" alt="Languages" height="170" />
+  <img src="https://raw.githubusercontent.com/joseub71/github-stats/generated/overview.svg" alt="GitHub stats" height="190" />
+  <img src="https://raw.githubusercontent.com/joseub71/github-stats/generated/languages.svg" alt="Languages used" height="190" />
 </p>
 
 <h2 align="center">🤝 Let's Connect</h2>
