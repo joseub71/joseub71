@@ -145,8 +145,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joseub71/github-stats/generated/overview.svg" alt="GitHub stats" height="190" />
-  <img src="https://raw.githubusercontent.com/joseub71/github-stats/generated/languages.svg" alt="Languages used" height="190" />
+  <img src="https://raw.githubusercontent.com/joseub71/github-stats/generated/overview.svg" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/joseub71/github-stats/generated/languages.svg" alt="Languages used" />
 </p>
 
 <h2 align="center">🤝 Let's Connect</h2>
